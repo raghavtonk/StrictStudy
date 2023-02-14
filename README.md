@@ -48,19 +48,16 @@ About us page
 
 <b>Project Contributions</b>
 
-<i>Darshan Gurung
+<i>Raghav Kumar Tonk
+  <li> Responsible for the Javascript/Php functions of timer, goals, database connection, stats, login and sign up functionalities.</li>
+  <li> Provided backend logics. </li><br>
+  
+Darshan Gurung
   <li> Did all the styling (CSS) of the main page along with some javascript functionalites for opening and closing elements.</li>
   <li> Responsible for Spotify Music Player.</li>
-  <li> Added website loader animation.</li>
-  <li> Integrated all the code files, assembled the website and hosted the project.</li><br>
+  <li> Added website loader animation.</li><br>
   
 Divyam Singh Negi
-  <li> Initially proposed the idea</li>
   <li> Made Study tips and About Us page along with styling those pages.</li>
   <li> Made quote generator</li><br>
   
-Raghav Kumar Tonk
-  <li> Responsible for the Javascript/Php functions of timer, goals, database connection, stats, login and sign up functionalities.</li>
-  <li> Provided backend logics. </li>
-
-
