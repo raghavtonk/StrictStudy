@@ -50,6 +50,7 @@ About us page
 
 <i>Raghav Kumar Tonk
   <li> Responsible for the Javascript/Php functions of timer, goals, database connection, stats, login and sign up functionalities.</li>
+  <li> Did the styling (CSS) for the same.</li>
   <li> Provided backend logics. </li><br>
   
 Darshan Gurung
